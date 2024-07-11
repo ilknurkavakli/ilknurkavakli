@@ -1,4 +1,6 @@
-- 👋 Merhabalar ben ilknur kavaklı. İstinye üniversitesi Bilgisayar Programcılığı 2.sınıf öğrencisiyim. Web sitesi yapımında kendimi geliştirmekteyim. Öğrenmeye açık ekip çalışmalarını uyum sağlayan ve gelişen teknolojileri yakından takip eden birisiyim.Yaratıcı projeler geliştirmeyi seven yazılım geliştiricisiyimdir.
+- 👋 Merhaba! Ben İstinye Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Eğitim hayatım boyunca Python, HTML, CSS, SQL ve Flutter gibi çeşitli programlama dilleri ve teknolojileri üzerinde çalıştım. Özellikle Flutter ile proje geliştirme konusunda deneyim sahibiyim.
+
+Bu GitHub hesabımda, öğrendiğim ve geliştirdiğim projeleri paylaşıyorum. Amacım, teknoloji ve yazılım dünyasında kendimi sürekli geliştirmek ve bu alanda önemli projelere imza atmak.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
